@@ -1,4 +1,3 @@
-ttr_class Song 
-  aaccessor :title, :artist
- 
+class Song 
+  attr_accessor :title, :artist
 end 
